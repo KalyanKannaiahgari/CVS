@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodingChallenge</string>
+    <string name="no_result">No result found</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="no_recent_searches">You have no recent searches</string>
+    <string name="please_enter_some_text">Please enter some text</string>
+</resources>
